@@ -10,7 +10,7 @@ Using the CSS Styler, users are able to:
 
 Links
 
-* Issues and feature requests: https://github.com/prestonw/cssicu/issues>
+* Issues and feature requests: https://github.com/prestonw/cssicu/issues
 
 About
 
